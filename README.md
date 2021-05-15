@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hüseyin Palamar
 ----
-'Electronic Technology'⚡ and 'Software Developer'
+                                     'Electronic Technology'⚡ and 'Software Developer'
 
 <!---
 **huseyinpalamar/huseyinpalamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
