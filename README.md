@@ -6,6 +6,9 @@
 <p align="center">
   <a href="https://github.com/huseyinpalamar/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Don't%20repeat%20yourself!;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
+ <p align="center">
+  🙋‍♂️ Connect with me
+  </p>
 <p align="center">
       Electronic Technology⚡ and Software Developer :computer:   
   </p>
