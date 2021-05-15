@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Hüseyin Palamar
+----
+'Electronic Technology'⚡ and 'Software Developer'
 
-<!--
+<!---
 **huseyinpalamar/huseyinpalamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://tr.seaicons.com/wp-content/uploads/2016/08/Computer-Hardware-Laptop-icon.png
 -->
