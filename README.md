@@ -17,8 +17,8 @@
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/hpalamr?color=00e4ff&labelColor=00b4ff&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/huseyinpalamar">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/huseyinpalamar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    <a href="https://instagram.com/hpalamr">
-    <img alt="followers" title="Follow me on Instagram" src="https://img.shields.io/github/followers/huseyinpalamar?color=fa3636&labelColor=fe3434&style=for-the-badge&logo=instagram&logoColor=ffffff&label=Fallow"/></a>
+<a href="https://www.instagram.com/hpalamr">
+  <img alt="followers"title="Follow me Instagram"img src="https://img.shields.io/badge/Follow-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=fa3636"></a>
 </p>
   
 
